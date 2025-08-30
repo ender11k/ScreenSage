@@ -55,7 +55,7 @@ python main.py
 If you want to package the app into a standalone .exe:
 ```bash
 pip install pyinstaller
-pyinstaller --noconsole --onefile --icon=icon.ico main.py
+pyinstaller --noconsole --onefile main.py
 ```
 
 The .exe will appear inside the dist/ folder.
