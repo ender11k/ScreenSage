@@ -90,3 +90,8 @@ MIT License © 2025 Yash Samarth
 - Tesseract OCR
 - PySide6
 
+ ### ⚠️ Notes
+
+Requires Tesseract OCR installed on your system for text recognition.
+Tested on Windows 10/11 (64-bit).
+If Windows SmartScreen blocks it, click “More Info” → “Run Anyway”.
