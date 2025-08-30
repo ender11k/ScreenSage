@@ -22,8 +22,8 @@ The app supports structured answers, draggable/resizable panels, and syntax high
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/screen-qa-assistant.git
-cd screen-qa-assistant
+git clone https://github.com/ender11k/ScreenSage
+cd ScreenSage
 ```
 ### 2. Create a virtual environment (recommended)
 ```bash
